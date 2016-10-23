@@ -1,6 +1,6 @@
 # ENGL 4\*\*\* Critical Computing in the Humanities
 
-Spring 2016
+Spring 2016  
 Prof. Dennis Tenen | dt2406 at columbia  
 
 
@@ -58,8 +58,10 @@ your work is trustworthy, the consequences for submitting work that is
 dishonest, and the resources available to assist you in achieving your best
 work.”
 
-When in doubt, consult the Columbia guide for undergraduates or check with me
-directly!
+When in doubt, consult the [Columbia University Undergraduate Guide to
+Academic
+Integrity](http://www.college.columbia.edu/academics/academicintegrity) or
+check with me directly!
 
 
 ## Provisional Schedule
