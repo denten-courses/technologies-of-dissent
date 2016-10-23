@@ -95,103 +95,124 @@ in Information” by Steve Calanrillo.
 
 ### Week 4:  Public and Common Knowledge
 
-“Of Property” John Locke Public Libraries, Thomas Greenwood pp. 1-49; Faith
-in Reading, Thomas August; The Tragedy of the Commons, Garrett Hardin; The
-Commons, by David Barry.
+- "Of Property" John Locke.
+- "Public Libraries," Thomas Greenwood pp. 1-49.
+- "Faith in Reading," Thomas August.
+- "The Tragedy of the Commons," Garrett Hardin.
+- "The Commons," by David Barry.
 
-Explore: http://publicknowledge.org/
+`Explore:` http://publicknowledge.org/
 
-Lab: Ethics charter. Zotero signup. 6pm-Computational Thinking w/ Jeannette
+`Lab:` Ethics charter. Zotero signup. 6pm-Computational Thinking w/ Jeannette
 Wang of Microsoft Research (Lecture Hall, Columbia University Graduate School
 of Journalism)
 
 ### Week 5: Open Access and Open Source
-“Information wants to be valuable” by Tim O'Reilly;  Ch. 1-3 "Open Access" by
-Peter Suber; Richard Stallman, “Why ‘Free Software’ is better than ‘Open
-Source’”; “Guerilla Open Access Manifesto”, Aaron Swartz; selections from
-"Coase's Penguin, or, Linux and The Nature of the Firm” by Yochai Benkler (at
-your discretion).
 
-Explore: Timeline of the Open Access Movement
-Lab: Command line basics
+- "Information wants to be valuable" by Tim O'Reilly.
+-  Ch. 1-3 "Open Access" by Peter Suber.
+- Richard Stallman, “Why ‘Free Software’ is better than ‘Open Source.’”
+- "Guerilla Open Access Manifesto," Aaron Swartz
+- Selections from "Coase's Penguin, or, Linux and The Nature of the Firm” by
+  Yochai Benkler.
+
+`Explore:` Timeline of the Open Access Movement
+
+`Lab:` Command line basics
 
 ### Week 6: Peer Production and Remix Culture
-“Authoritarian and Democratic Technics” by Lewis Mumford (1964);
-“Commons-Based Peer Production and Virtue” by Yochai Benkler and Helen
-Nissenbaum; “Cooperation and Attribution in an Online Community of Young
-Creators” by Andres Monroy-Hernandez and Benjamin Mako Hill; “The Evolution of
-Authorship in a Remix Society” by Nicholas Diakopoulos, et.al.
 
-Explore: Wikipedia, Policies and guidelines
-Lab:  Version control with Git
+- “Authoritarian and Democratic Technics” by Lewis Mumford (1964).
+- “Commons-Based Peer Production and Virtue” by Yochai Benkler and Helen
+  Nissenbaum.
+- “Cooperation and Attribution in an Online Community of Young Creators” by
+  Andres Monroy-Hernandez and Benjamin Mako Hill.
+- “The Evolution of Authorship in a Remix Society” by Nicholas Diakopoulos,
+  et.al..
+
+`Explore:` Wikipedia, Policies and guidelines.
+
+`Lab:`  Version control with Git.
 
 ### Week 7: Creative Commons, Copyleft, Free Culture
-Richard Stallman,  “Copyleft: Pragmatic Idealism,” “Why Software should not
-Have Owners”;  “What is Free Software”; Niva Elkin-Koren, “Creative Commons: A
-Skeptical View of a Worthy Project”; Eric Von Hippel, "Open source software
-and the ‘private-collective’ innovation model"; Eben Moglen, Anarchism
-Triumphant
 
-Explore: Richard Stallman, The Free Software Movement and the Future of
-Freedom; Freedom in the Commons by Benkle; selections from Cultural Software, 
-Lab:  Markdown + Pandoc
+- Richard Stallman, "Copyleft: Pragmatic Idealism," "Why Software should not
+  Have Owners," and "What is Free Software."
+- Niva Elkin-Koren, "Creative Commons: A Skeptical View of a Worthy Project."
+- Eric Von Hippel, "Open source software and the 'private-collective'
+  innovation model."
+- Eben Moglen, "Anarchism Triumphant."
+
+`Lab:`  Markdown + Pandoc.
 
 ### Week 8: Piracy and Shadow Libraries
-Robert Darnton, “The Science of Piracy”; “A Short History of Book Piracy” by
-Bodó Balázs; “The Darknet and the Future of Content Distribution” by Peter
-Biddle, et.al.; "The Darknet: A Digital Copyright Revolution" by Jessica Wood;
-“The Pirate Kingdom” in Ravi Sundaram’s Pirate Modernity
 
-Explore:  Stop Online Piracy Act (SOPA) documents
-    Lab: Mining text
+- Robert Darnton, “The Science of Piracy.”
+- “A Short History of Book Piracy” by Bodó Balázs.
+- “The Darknet and the Future of Content Distribution” by Peter Biddle, et.al.
+- "The Darknet: A Digital Copyright Revolution" by Jessica Wood.
+- “The Pirate Kingdom” in Ravi Sundaram’s Pirate Modernity.
+
+`Explore:` Stop Online Piracy Act (SOPA) documents
+
+`Lab:` Shell scripting.
 
 ### Week 9: Crypto-anarchism, Cypherpunks
 
-Timothy C. May, "The Crypto Anarchist Manifesto" and “Crypto Anarchy and
-Virtual Communities”; “A Cypherpunk's Manifesto" by Eric Hughes; Steven Levy
-"Crypto Rebels"; Nick Szabo, The idea of smart Contracts; Assassination
-Politics by Jim Bell;
+- Timothy C. May, "The Crypto Anarchist Manifesto" and “Crypto Anarchy and
+  Virtual Communities.”
+- “A Cypherpunk's Manifesto" by Eric Hughes.
+- Steven Levy "Crypto Rebels."
+- Nick Szabo, "The idea of smart Contracts."
+- "Assassination Politics" by Jim Bell.
 
-Explore:  http://www.i2p2.de/; Cyphernomicon; New Directions in Cryptography;
+`Explore:`  http://www.i2p2.de/; Cyphernomicon; New Directions in Cryptography;
 Circumventing Encryption Frees NSA’s Hands Online
-Lab: Tor/Onion, Encrypting Email
+
+`Lab:` Tor/Onion, Encrypting Email.
 
 ### Week 10: Hacker Culture
-"Do Artifacts Have Politics?" by Langdon Winner; McKenzie Wark, “A Hacker
-Manifesto”; Andrew Ross, "Hacking Away at the Counterculture"; Hackers and the
-contested ontology of cyberspace, Helen Nissenbaum
 
-Explore: A Brief History of Hackerdom, by Eric Steven Raymond
-Lab:  Cloud Computing
+- "Do Artifacts Have Politics?" by Langdon Winner.
+- McKenzie Wark, “A Hacker Manifesto.”
+- Andrew Ross, "Hacking Away at the Counterculture."
+- Hackers and the contested ontology of cyberspace, Helen Nissenbaum.
+
+`Explore:` A Brief History of Hackerdom, by Eric Steven Raymond
+
+`Lab:`  Scripting w/ Python.
 
 ### Week 11: Leaks and Whistleblowers 
-Statement of Thomas Blanton, Director, National Security Archive
-The Wikileaks Manifesto, by Julian Assange
-Disclosure's Effects: WikiLeaks and Transparency, by Mark Fenster
 
-Lab:  Cloud Computing 
+- Statement of Thomas Blanton, Director, National Security Archive.
+- The Wikileaks Manifesto, by Julian Assange.
+- Disclosure's Effects: WikiLeaks and Transparency, by Mark Fenster
+
+`Lab:`  Scripting w/ Python.
 
 ### Week 12: Secrecy and Transparency
 
 Zittrain; Pozen on “Deep Secrecy”; “A Free Irresponsible Press” by Yochai Benkler
 Freedom of Information Act; U.S. Code Chapter 37 - Espionage and Censorship
 
-Lab:  Scripting w/ Python
+`Lab:`  Scripting w/ Python.
 
 ### Week 13: Privacy and Surveillance
 
-Thomas Nagel, “Concealment and Exposure”; Philip E. Agre, “Surveillance and Capture: Two Models of Privacy”
-Roger Dingledine, et. al., “Tor: The Second-Generation Onion Router”
+- Thomas Nagel, “Concealment and Exposure.”
+- Philip E. Agre, “Surveillance and Capture: Two Models of Privacy.”
+- Roger Dingledine, et. al., “Tor: The Second-Generation Onion Router.”
 
-Explore: HIPAA, Google TOS, Facebook TOS, USA Patriot Act
-Lab:  Scripting w/ Python
+`Explore:` HIPAA, Google TOS, Facebook TOS, USA Patriot Act.
+
+`Lab:`  Scripting w/ Python.
 
 ### Week 14: Open Session
 
-Schedule a make up lab on encryption. Brainstorm final projects. Python
-lecture.
+- Schedule a make up lab on encryption. Brainstorm final projects. Python
+  lecture.
 
-Lab:  Scripting w/ Python
+`Lab:`  Scripting w/ Python.
 
 
 
