@@ -76,10 +76,10 @@ Winner, Langdon. Selections from *Autonomous Technology*.
 
 ### Week 3: Copyright Regimes
 
-Hughes, Justin. “Philosophy of Intellectual Property,” *Georgetown Law
+> Hughes, Justin. “Philosophy of Intellectual Property,” *Georgetown Law
 Journal* 77 (1989- 1988): 287-367.
 
-“Copyright And `The Exclusive Right' Of Authors” by
+> “Copyright And `The Exclusive Right' Of Authors” by
 Lyman Ray Patterson.
 
 "Against Intellectual Property" by Brian Martin.
