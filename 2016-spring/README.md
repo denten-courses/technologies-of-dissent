@@ -63,27 +63,27 @@ Academic
 Integrity](http://www.college.columbia.edu/academics/academicintegrity) or
 check with me directly!
 
-
 ## Provisional Schedule
 
 ### Week 1: Introduction
+
 The spirit of the class. Ethics charter. Structure. Assignments,
 participation, grading, schedule.
 
 ### Week 2: Copyright Regimes
+
 Winner, Langdon. Selections from Autonomous Technology.
 
 ### Week 3: Copyright Regimes
+
 Hughes, Justin. “Philosophy of Intellectual Property” Georgetown Law Journal
 77 (1989- 1988): 287-367; “Copyright And `The Exclusive Right' Of Authors” by
 Lyman Ray Patterson; Against Intellectual Property by Brian Martin.
 
-Explore:* Cohen, Julie. “Creativity and Culture in Copyright Theory” U.C.
+Explore: Cohen, Julie. “Creativity and Culture in Copyright Theory” U.C.
 Davis Law Review 40 (2007 2006): 1151; “Economic Analysis of Property Rights
 in Information” by Steve Calanrillo.
 
-* Read the main selections carefully and in full. The explore section is an
-opportunity to delve deeper selectively.
 Lab: Zotero
 
 ### Week 4:  Public and Common Knowledge
