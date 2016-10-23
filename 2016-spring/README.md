@@ -3,7 +3,6 @@
 Spring 2016  
 Prof. Dennis Tenen | dt2406 at columbia  
 
-
 Our engagement with technology entails political, not just instrumental
 choices. Email clients, social networks, and word processors have a profound
 effect on the way we relate to each other: work, organize, relax, or make art.
@@ -36,14 +35,14 @@ all levels of technical and critical proficiency are welcome to attend.
 
 ## Academic Integrity
 
-“Academic integrity is the cornerstone of our intellectual community. All
+> Academic integrity is the cornerstone of our intellectual community. All
 scholarship – teaching, research, and student learning – is the product of
 intellectual exchange. Whether this exchange takes place in books and journal
 articles, in laboratories, in the design of experiments and the analysis of
 data, in the classroom, or in students’ written work, it is these joint
 undertakings that create Columbia’s intellectual community.
 
-The value of our collective inquiry relies upon trust and honesty – for our
+> The value of our collective inquiry relies upon trust and honesty – for our
 individual discoveries are dependent upon the discoveries of our peers and
 predecessors, here at Columbia and elsewhere. And all intellectual work must
 be evaluated – the work of students is evaluated by faculty; the work of
@@ -51,12 +50,12 @@ faculty is evaluated through peer-review. We must, therefore, be able to trust
 that others are honest in their work and others must be able to trust that we
 are honest in ours.
 
-Academic writing can be very challenging, for it requires us to create
+> Academic writing can be very challenging, for it requires us to create
 original work from our synthesis of the work done by others. In these pages
 you will learn strategies for developing original work, ways to ensure that
 your work is trustworthy, the consequences for submitting work that is
 dishonest, and the resources available to assist you in achieving your best
-work.”
+work.
 
 When in doubt, consult the [Columbia University Undergraduate Guide to
 Academic
