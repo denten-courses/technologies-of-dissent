@@ -70,8 +70,8 @@ check with me directly!
 
 ### Week 1: Introduction
 
-> The spirit of the class. Ethics charter. Structure. Assignments,
-participation, grading, schedule.
+- The spirit of the class. Ethics charter. Structure. Assignments,
+  participation, grading, schedule.
 
 ### Week 2: Copyright Regimes
 
