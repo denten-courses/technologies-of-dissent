@@ -35,6 +35,10 @@ all levels of technical and critical proficiency are welcome to attend.
 
 ## Academic Integrity
 
+Columbia University Undergraduate Guide to Academic
+Integrity](http://www.college.columbia.edu/academics/academicintegrity)
+contains the following statement:
+
 > Academic integrity is the cornerstone of our intellectual community. All
 scholarship – teaching, research, and student learning – is the product of
 intellectual exchange. Whether this exchange takes place in books and journal
