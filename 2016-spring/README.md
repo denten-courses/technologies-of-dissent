@@ -192,8 +192,10 @@ Circumventing Encryption Frees NSA’s Hands Online
 
 ### Week 12: Secrecy and Transparency
 
-Zittrain; Pozen on “Deep Secrecy”; “A Free Irresponsible Press” by Yochai Benkler
-Freedom of Information Act; U.S. Code Chapter 37 - Espionage and Censorship
+- Pozen on “Deep Secrecy.”
+- “A Free Irresponsible Press” by Yochai Benkler 
+- Freedom of Information Act
+- U.S. Code Chapter 37 - Espionage and Censorship.
 
 `Lab:`  Scripting w/ Python.
 
