@@ -72,23 +72,27 @@ participation, grading, schedule.
 
 ### Week 2: Copyright Regimes
 
-Winner, Langdon. Selections from Autonomous Technology.
+Winner, Langdon. Selections from *Autonomous Technology*.
 
 ### Week 3: Copyright Regimes
 
-Hughes, Justin. “Philosophy of Intellectual Property” Georgetown Law Journal
-77 (1989- 1988): 287-367; “Copyright And `The Exclusive Right' Of Authors” by
-Lyman Ray Patterson; Against Intellectual Property by Brian Martin.
+Hughes, Justin. “Philosophy of Intellectual Property,” *Georgetown Law
+Journal* 77 (1989- 1988): 287-367.
+
+“Copyright And `The Exclusive Right' Of Authors” by
+Lyman Ray Patterson.
+
+"Against Intellectual Property" by Brian Martin.
 
 `Explore:` Cohen, Julie. “Creativity and Culture in Copyright Theory” U.C.
 Davis Law Review 40 (2007 2006): 1151; “Economic Analysis of Property Rights
 in Information” by Steve Calanrillo.
 
 `Lab:` Zotero
-```
 
 ### Week 4:  Public and Common Knowledge
-“Of Property” John Locke; Public Libraries, Thomas Greenwood pp. 1-49; Faith
+
+“Of Property” John Locke Public Libraries, Thomas Greenwood pp. 1-49; Faith
 in Reading, Thomas August; The Tragedy of the Commons, Garrett Hardin; The
 Commons, by David Barry.
 
