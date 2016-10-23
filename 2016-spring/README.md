@@ -35,7 +35,7 @@ all levels of technical and critical proficiency are welcome to attend.
 
 ## Academic Integrity
 
-Columbia University Undergraduate Guide to Academic
+[Columbia University Undergraduate Guide to Academic
 Integrity](http://www.college.columbia.edu/academics/academicintegrity)
 contains the following statement:
 
