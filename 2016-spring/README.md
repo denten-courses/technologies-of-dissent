@@ -1,6 +1,6 @@
 # ENGL 4\*\*\* Critical Computing in the Humanities
 
-Spring 2016  
+Spring 2017  
 Prof. Dennis Tenen | dt2406 at columbia  
 
 Our engagement with technology entails political, not just instrumental
