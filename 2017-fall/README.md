@@ -1,4 +1,4 @@
-# ENGLGU4911: Technologies of Dissent
+# ENGLGU 4911: Technologies of Dissent
 
 Fall 2017  
 Prof. Dennis Tenen | dt2406 at columbia  
