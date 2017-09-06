@@ -19,21 +19,24 @@ critically. Readings in ethics, philosophy, media history, and critical theory
 will ground our practical explorations.
 
 This course advances research in computational culture studies understood both
-as the study of computational culture and as computational approaches to the
-study of culture and society. In addition to traditional reading, discussion,
-and writing components of the class, participants are expected to work on a
-semester-long data-driven lab-based research project. Students and scholars
-from any field, at any stage of their academic or professional career, and at
-all levels of technical and critical proficiency are welcome to attend.
-
+as *the study of computational culture* and as *computational approaches to
+the study of culture and society*. In addition to traditional reading,
+discussion, and writing components of the class, participants are expected to
+work on a semester-long data-driven lab-based research project. Students and
+scholars from any field, at any stage of their academic or professional
+career, and at all levels of technical and critical proficiency are welcome to
+attend.
 
 ## Course Requirements and Grading
 
-- 25%     Class participation
-- 25%     Online participation
-- 25%     Midterm annotated biblio
-- 25%     Final project proposal
+- 20%     Class & Online Participation<sup>†</sup>
+- 20%     Weekly Lab Assignments
+- 15%     Midterm Exam (Passage IDs covering the reading)
+- 25%     Final Exam (Passage IDs covering the reading)
+- 20%     Final Project (individual or group, to be approved by instructor)
 
+<sup>†</sup>: Concise weekly forum posts responding to the reading, asking
+questions / sharing expertise regarding the lab assignments.
 
 ## Academic Integrity
 
@@ -75,11 +78,54 @@ check with me directly!
 - The spirit of the class. Ethics charter. Structure. Assignments,
   participation, grading, schedule.
 
-### Week 2: Copyright Regimes
+### Week 2: Theory and Practice
 
-- Winner, Langdon. Selections from *Autonomous Technology*.
+- “Authoritarian and Democratic Technics” by Lewis Mumford (1964).
+- "Do Artifacts Have Politics?" by Langdon Winner.
 
-### Week 3: Copyright Regimes
+Lab: Encoding
+
+### Week 3: Infrastructure
+
+- Selections from Nicole Starosielski's *The Undersea Network*
+
+Lab: Operating systems
+
+### Week 4: Algorithms
+
+- "Algorithms of Oppression" by Safiya Noble
+- Medina, Eden. 2015. “Rethinking Algorithmic Regulation.” Edited by Dr Raul
+  Espejo. Kybernetes 44 (6/7): 1005–19.
+
+Lab: Recipes, heuristics, algorithms.
+
+### Week 5: "Big" Data
+
+- Selections from Cathy O'Neil's *Weapons of Math Destruction: How Big Data
+  Increases Inequality and Threatens Democracy*
+
+Lab: Facebook data dump.
+
+### Week 6: Digital Labor
+
+- Irani, L. and M.S. Silberman. (2013) Turkopticon: Interrupting Worker
+  Invisibility in Amazon Mechanical Turk” Proceedings of CHI 2013, Apr 28-May
+2, 2013.
+- Selections from *Digital Labor: The Internet as Playground and Factory* by
+  Trebor Scholz.
+- Terranova, Tiziana. “Free Labor: Producing Culture for the Digital Economy.”
+  Social Text 18, no. 2 (June 1, 2000): 33–58.
+
+### Week 7: Peer Production and Remix Culture
+
+- Selections from *Rogue Archives: Digital Cultural Memory and Media Fandom*
+  by Abigail De Kosnik.
+- "Information wants to be valuable" by Tim O'Reilly.
+-  Ch. 1-3 "Open Access" by Peter Suber.
+- Richard Stallman, “Why ‘Free Software’ is better than ‘Open Source.’”
+- "Guerilla Open Access Manifesto," Aaron Swartz
+- Selections from "Coase's Penguin, or, Linux and The Nature of the Firm” by
+  Yochai Benkler.
 
 - Hughes, Justin. “Philosophy of Intellectual Property,” *Georgetown Law
 Journal* 77 (1989- 1988): 287-367.
@@ -93,38 +139,8 @@ Lyman Ray Patterson.
 Davis Law Review 40 (2007 2006): 1151; “Economic Analysis of Property Rights
 in Information” by Steve Calanrillo.
 
-`Lab:` Zotero
-
-### Week 4:  Public and Common Knowledge
-
-- "Of Property" John Locke.
-- "Public Libraries," Thomas Greenwood pp. 1-49.
-- "Faith in Reading," Thomas August.
-- "The Tragedy of the Commons," Garrett Hardin.
-- "The Commons," by David Barry.
-
-`Explore:` http://publicknowledge.org/
-
-`Lab:` Ethics charter. Zotero signup. 6pm-Computational Thinking w/ Jeannette
-Wang of Microsoft Research (Lecture Hall, Columbia University Graduate School
-of Journalism)
-
-### Week 5: Open Access and Open Source
-
-- "Information wants to be valuable" by Tim O'Reilly.
--  Ch. 1-3 "Open Access" by Peter Suber.
-- Richard Stallman, “Why ‘Free Software’ is better than ‘Open Source.’”
-- "Guerilla Open Access Manifesto," Aaron Swartz
-- Selections from "Coase's Penguin, or, Linux and The Nature of the Firm” by
-  Yochai Benkler.
-
 `Explore:` Timeline of the Open Access Movement
 
-`Lab:` Command line basics
-
-### Week 6: Peer Production and Remix Culture
-
-- “Authoritarian and Democratic Technics” by Lewis Mumford (1964).
 - “Commons-Based Peer Production and Virtue” by Yochai Benkler and Helen
   Nissenbaum.
 - “Cooperation and Attribution in an Online Community of Young Creators” by
@@ -132,11 +148,7 @@ of Journalism)
 - “The Evolution of Authorship in a Remix Society” by Nicholas Diakopoulos,
   et.al..
 
-`Explore:` Wikipedia, Policies and guidelines.
-
-`Lab:`  Version control with Git.
-
-### Week 7: Creative Commons, Copyleft, Free Culture
+### Week 8: Creative Commons, Copyleft, Free Culture
 
 - Richard Stallman, "Copyleft: Pragmatic Idealism," "Why Software should not
   Have Owners," and "What is Free Software."
@@ -147,19 +159,19 @@ of Journalism)
 
 `Lab:`  Markdown + Pandoc.
 
-### Week 8: Piracy and Shadow Libraries
+### Week 9: Media Piracy and Shadow Libraries
 
 - Robert Darnton, “The Science of Piracy.”
+- Selections from *Abigail De Kosnik: Rouge Archives: Digital Cultural Memory
+  and Media Fandom.*
 - “A Short History of Book Piracy” by Bodó Balázs.
-- “The Darknet and the Future of Content Distribution” by Peter Biddle, et.al.
 - "The Darknet: A Digital Copyright Revolution" by Jessica Wood.
-- “The Pirate Kingdom” in Ravi Sundaram’s Pirate Modernity.
 
 `Explore:` Stop Online Piracy Act (SOPA) documents
 
 `Lab:` Shell scripting.
 
-### Week 9: Crypto-anarchism, Cypherpunks
+### Week 10: Cryptography
 
 - Timothy C. May, "The Crypto Anarchist Manifesto" and “Crypto Anarchy and
   Virtual Communities.”
@@ -173,26 +185,24 @@ Circumventing Encryption Frees NSA’s Hands Online
 
 `Lab:` Tor/Onion, Encrypting Email.
 
-### Week 10: Hacker Culture
+### Week 11: Access Unauthorized and Authorized
 
-- "Do Artifacts Have Politics?" by Langdon Winner.
 - McKenzie Wark, “A Hacker Manifesto.”
-- Andrew Ross, "Hacking Away at the Counterculture."
+- Selections from Gabriella Coleman's *Coding Freedom: The Ethics and
+  Aesthetics of Hacking.*
 - Hackers and the contested ontology of cyberspace, Helen Nissenbaum.
 
-`Explore:` A Brief History of Hackerdom, by Eric Steven Raymond
+Lab:  Groups, users, and file permissions.
 
-`Lab:`  Scripting w/ Python.
-
-### Week 11: Leaks and Whistleblowers 
+### Week 12: Leaks and Whistleblowers
 
 - Statement of Thomas Blanton, Director, National Security Archive.
+- Selections from Gabriella Coleman's *Hacker Hoaxer Whistleblower Spy: The Many
+  Faces of Anonymous*
 - The Wikileaks Manifesto, by Julian Assange.
 - Disclosure's Effects: WikiLeaks and Transparency, by Mark Fenster
 
-`Lab:`  Scripting w/ Python.
-
-### Week 12: Secrecy and Transparency
+### Week 13: Privacy, Secrecy, and Transparency
 
 - Pozen on “Deep Secrecy.”
 - “A Free Irresponsible Press” by Yochai Benkler 
@@ -201,22 +211,36 @@ Circumventing Encryption Frees NSA’s Hands Online
 
 `Lab:`  Scripting w/ Python.
 
-### Week 13: Privacy and Surveillance
+### Week 14: Surveillance & Counter-Surveillance
 
+
+- "Terror and the Female Grotesque" by Rachel Hall.
 - Thomas Nagel, “Concealment and Exposure.”
-- Philip E. Agre, “Surveillance and Capture: Two Models of Privacy.”
-- Roger Dingledine, et. al., “Tor: The Second-Generation Onion Router.”
 
-`Explore:` HIPAA, Google TOS, Facebook TOS, USA Patriot Act.
+Lab:  Reading Terms of Service.
 
-`Lab:`  Scripting w/ Python.
+### Week 15: Fandom and Participatory Culture
 
-### Week 14: Open Session
+- Selections from *Low Power to the People: Pirates, Protest, and Politics in
+  FM Radio Activism*
 
-- Schedule a make up lab on encryption. Brainstorm final projects. Python
-  lecture.
+Lab: Book clubs.
 
-`Lab:`  Scripting w/ Python.
+
+===========================================================================
+IGNORE FOR NOW: THESE WILL BE INTEGRATED IN THE COURSE OF THE SEMESTER
+===========================================================================
+
+- Wikipedia, Policies and guidelines.
+- Version control with Git.
+- Command line basics
+- Samuel Butler, Book of the Machines
+- Selections from *The Human Condition* by Arendt
+- Selections from Networking Peripheries, by Anita Chan
+- Selections from *Giving Voice: Mobile Communication, Disability, and
+Inequality* by Meryl Alper
+- Selections from *Encoding Race, Encoding Class: Indian IT Workers in Berlin*
+from Sareeta Amrute.
 
 
 
