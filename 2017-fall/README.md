@@ -29,11 +29,13 @@ attend.
 
 ## Course Requirements and Grading
 
-- 20%     Class & Online Participation<sup>†</sup>
-- 20%     Weekly Lab Assignments
-- 15%     Midterm Exam (Passage IDs covering the reading)
+- 25%     Class & Online Participation<sup>†</sup>
+- 25%     Weekly Lab Assignments
+- 25%     Midterm Exam (Passage IDs covering the reading)
 - 25%     Final Exam (Passage IDs covering the reading)
-- 20%     Final Project (individual or group, to be approved by instructor)
+OR (for graduate students only)
+- 25%     Midterm Project Proposal
+- 25%     Final Project (individual or group, to be approved by instructor)
 
 <sup>†</sup> Concise weekly forum posts responding to the reading, asking
 questions / sharing expertise regarding the lab assignments.
