@@ -101,10 +101,15 @@ pp. 87-104.
 
 ### Week 3: Theory and Practice
 
-- “Authoritarian and Democratic Technics” by Lewis Mumford (1964).
-- "Do Artifacts Have Politics?" by Langdon Winner.
+- “[Authoritarian and Democratic Technics][5]” by Lewis Mumford (1964).
+- "[Do Artifacts Have Politics?][4]" by Langdon Winner.
 
-Lab: Encoding
+Lab: Encoding. Read "[ASCII and A Cast of Characters][6]" in *Code: The Hidden
+Language of Computer Hardware and Software*,  pp. 286-301.
+
+[4]: http://www.jstor.org.ezproxy.cul.columbia.edu/stable/20024652?pq-origsite=summon&seq=1#page_scan_tab_contents
+[5]: http://www.jstor.org.ezproxy.cul.columbia.edu/stable/3101118?Search=yes&resultItemClick=true&searchText=Authoritarian&searchText=and&searchText=Democratic&searchText=Technics&searchUri=%2Faction%2FdoBasicSearch%3Ffilter%3D%26amp%3BQuery%3DAuthoritarian%2Band%2BDemocratic%2BTechnics&refreqid=search%3Af4ddecd3ce213f1a08573326d6ec3996&seq=1#page_scan_tab_contents
+[6]: https://courseworks2.columbia.edu/files/1500177/download?download_frd=1
 
 ### Week 3.5: Infrastructure
 
