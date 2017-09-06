@@ -78,14 +78,21 @@ check with me directly!
 - The spirit of the class. Ethics charter. Structure. Assignments,
   participation, grading, schedule.
 
-### Week 2: Theory and Practice
+### Week 2: Civil Disobedience
+
+- Selections from *Crito* by Socrates.
+- "Civil Disobedience" by Hannah Arendt.
+
+Lab: Machine prep. Intro to command line.
+
+### Week 3: Theory and Practice
 
 - “Authoritarian and Democratic Technics” by Lewis Mumford (1964).
 - "Do Artifacts Have Politics?" by Langdon Winner.
 
 Lab: Encoding
 
-### Week 3: Infrastructure
+### Week 3.5: Infrastructure
 
 - Selections from Nicole Starosielski's *The Undersea Network*
 
