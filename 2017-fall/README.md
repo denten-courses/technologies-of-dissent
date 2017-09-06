@@ -171,20 +171,13 @@ in Information” by Steve Calanrillo.
 
 `Lab:` Shell scripting.
 
-### Week 10: Cryptography
 
-- Timothy C. May, "The Crypto Anarchist Manifesto" and “Crypto Anarchy and
-  Virtual Communities.”
-- “A Cypherpunk's Manifesto" by Eric Hughes.
-- Steven Levy "Crypto Rebels."
-- Nick Szabo, "The idea of smart Contracts."
-- "Assassination Politics" by Jim Bell.
+- Selections from *Low Power to the People: Pirates, Protest, and Politics in
+  FM Radio Activism*
 
-`Explore:`  http://www.i2p2.de/; Cyphernomicon; New Directions in Cryptography;
-Circumventing Encryption Frees NSA’s Hands Online
+Lab: Sharing communities.
 
-`Lab:` Tor/Onion, Encrypting Email.
-
+### Week 10: Censorship
 ### Week 11: Access Unauthorized and Authorized
 
 - McKenzie Wark, “A Hacker Manifesto.”
@@ -193,6 +186,7 @@ Circumventing Encryption Frees NSA’s Hands Online
 - Hackers and the contested ontology of cyberspace, Helen Nissenbaum.
 
 Lab:  Groups, users, and file permissions.
+
 
 ### Week 12: Leaks and Whistleblowers
 
@@ -219,12 +213,21 @@ Lab:  Groups, users, and file permissions.
 
 Lab:  Reading Terms of Service.
 
-### Week 15: Fandom and Participatory Culture
+### Week 15: Cryptography
 
-- Selections from *Low Power to the People: Pirates, Protest, and Politics in
-  FM Radio Activism*
+- Timothy C. May, "The Crypto Anarchist Manifesto" and “Crypto Anarchy and
+  Virtual Communities.”
+- “A Cypherpunk's Manifesto" by Eric Hughes.
+- Steven Levy "Crypto Rebels."
+- Nick Szabo, "The idea of smart Contracts."
+- "Assassination Politics" by Jim Bell.
 
-Lab: Book clubs.
+`Explore:`  http://www.i2p2.de/; Cyphernomicon; New Directions in Cryptography;
+Circumventing Encryption Frees NSA’s Hands Online
+
+`Lab:` Tor/Onion, Encrypting Email.
+
+
 
 
 ===========================================================================
