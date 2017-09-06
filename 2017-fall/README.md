@@ -35,7 +35,7 @@ attend.
 - 25%     Final Exam (Passage IDs covering the reading)
 - 20%     Final Project (individual or group, to be approved by instructor)
 
-<sup>†</sup>: Concise weekly forum posts responding to the reading, asking
+<sup>†</sup> Concise weekly forum posts responding to the reading, asking
 questions / sharing expertise regarding the lab assignments.
 
 ## Academic Integrity
