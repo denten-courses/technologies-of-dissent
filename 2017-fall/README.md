@@ -83,17 +83,21 @@ check with me directly!
 ### Week 1: Introduction
 
 - The spirit of the class. Ethics charter. Structure. Assignments,
-  participation, grading, schedule.
+  participation, grading, schedule. 
 
 ### Week 2: Technology and Disobedience
 
 - [The Question Concerning Technology][1] (1954) by Martin Heidegger.
 - "[Civil Disobedience][2]" (1969) by Hannah Arendt. You can skip Part I.
 
+Wednesday Lab: Machine prep. Intro to command line. Read the Software Systems
+chapter in Kernighan's *Understanding the Digital World* (2017), Chapter 6,
+pp. 87-104.
+
 [1]: https://courseworks2.columbia.edu/files/1499942/download?download_frd=1
 [2]: https://courseworks2.columbia.edu/files/1499967/download?download_frd=1
+[3]: https://courseworks2.columbia.edu/files/1500023/download?download_frd=1
 
-Wednesday Lab: Machine prep. Intro to command line.
 
 ### Week 3: Theory and Practice
 
