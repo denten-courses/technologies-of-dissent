@@ -33,7 +33,9 @@ attend.
 - 25%     Weekly Lab Assignments
 - 25%     Midterm Exam (Passage IDs covering the reading)
 - 25%     Final Exam (Passage IDs covering the reading)
+
 OR (for graduate students only)
+
 - 25%     Midterm Project Proposal
 - 25%     Final Project (individual or group, to be approved by instructor)
 
