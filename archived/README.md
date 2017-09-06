@@ -2,8 +2,7 @@
 
 Fall 2017  
 Prof. Dennis Tenen | dt2406 at columbia  
-M W 2:40pm-3:55pm at 603 Hamilton Hall  
-Office Hours:  M&W 4-5pm Philosophy 408e  
+Office Hours:  
 
 Our engagement with technology entails political, not just instrumental
 choices. Email clients, social networks, and word processors have a profound
