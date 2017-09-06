@@ -34,13 +34,16 @@ attend.
 - 25%     Midterm Exam (Passage IDs covering the reading)
 - 25%     Final Exam (Passage IDs covering the reading)
 
-OR (for graduate students only)
+OR (for graduate students only)<sup>††</sup>
 
 - 25%     Midterm Project Proposal
 - 25%     Final Project (individual or group, to be approved by instructor)
 
 <sup>†</sup> Concise weekly forum posts responding to the reading, asking
-questions / sharing expertise regarding the lab assignments.
+questions / sharing expertise regarding the lab assignments.  
+
+<sup>††</sup> Undergraduates wishing to pursue an independent project still
+have to take the midterm and the final exams.
 
 ## Academic Integrity
 
