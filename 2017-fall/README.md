@@ -80,12 +80,15 @@ check with me directly!
 - The spirit of the class. Ethics charter. Structure. Assignments,
   participation, grading, schedule.
 
-### Week 2: Civil Disobedience
+### Week 2: Technology and Disobedience
 
-- Selections from *Crito* by Socrates.
-- "Civil Disobedience" by Hannah Arendt.
+- [The Question Concerning Technology][1] (1954) by Martin Heidegger.
+- "[Civil Disobedience][2]" (1969) by Hannah Arendt. You can skip Part I.
 
-Lab: Machine prep. Intro to command line.
+[1]: https://courseworks2.columbia.edu/files/1499942/download?download_frd=1
+[2]: https://courseworks2.columbia.edu/files/1499967/download?download_frd=1
+
+Wednesday Lab: Machine prep. Intro to command line.
 
 ### Week 3: Theory and Practice
 
