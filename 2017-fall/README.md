@@ -2,8 +2,8 @@
 
 Fall 2017  
 Prof. Dennis Tenen | dt2406 at columbia  
-M (lecture) 2:40pm-3:55pm at 603 Hamilton Hall 
-W (lab) 2:40pm-3:55pm at Butler 208b
+M (lecture) 2:40pm-3:55pm at 603 Hamilton Hall  
+W (lab) 2:40pm-3:55pm at Butler 208b  
 Office Hours:  M&W 4-5pm Philosophy 408e  
 
 Our engagement with technology entails political, not just instrumental
