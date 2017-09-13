@@ -88,18 +88,18 @@ check with me directly!
 
 ### Week 2: Technology and Disobedience
 
-- [The Question Concerning Technology][1] (1954) by Martin Heidegger.
-- "[Civil Disobedience][2]" (1969) by Hannah Arendt. You can skip Part I.
+- [The Question Concerning Technology][11] (1954) by Martin Heidegger.
+- "[Civil Disobedience][12]" (1969) by Hannah Arendt. You can skip Part I.
 
-Wednesday Lab: Machine prep. Intro to command line. Read the [Software Systems][4]
+Wednesday Lab: Machine prep. Intro to command line. Read the [Software Systems][14]
 chapter in Kernighan's *Understanding the Digital World* (2017), Chapter 6,
-pp. 87-104.
+pp. 87-104. [Worksheet 1][15] due on Sunday, 11:59pm.
 
-[1]: https://courseworks2.columbia.edu/files/1499942/download?download_frd=1
-[2]: https://courseworks2.columbia.edu/files/1499967/download?download_frd=1
-[3]: https://courseworks2.columbia.edu/files/1500023/download?download_frd=1
-[4]: https://courseworks2.columbia.edu/files/1522885/download?download_frd=1
-
+[11]: https://courseworks2.columbia.edu/files/1499942/download?download_frd=1
+[12]: https://courseworks2.columbia.edu/files/1499967/download?download_frd=1
+[13]: https://courseworks2.columbia.edu/files/1500023/download?download_frd=1
+[14]: https://courseworks2.columbia.edu/files/1522885/download?download_frd=1
+[15]: https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/lab-worksheets/01-intro-command-line.md
 
 ### Week 3: Theory and Practice
 
