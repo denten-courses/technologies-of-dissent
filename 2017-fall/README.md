@@ -93,7 +93,7 @@ check with me directly!
 
 Wednesday Lab: Machine prep. Intro to command line. Read the [Software Systems][14]
 chapter in Kernighan's *Understanding the Digital World* (2017), Chapter 6,
-pp. 87-104. [Worksheet 1][15 due on Sunday, 11:59pm.
+pp. 87-104. [Worksheet 1][15] due on Sunday, 11:59pm.
 
 [11]: https://courseworks2.columbia.edu/files/1499942/download?download_frd=1
 [12]: https://courseworks2.columbia.edu/files/1499967/download?download_frd=1
