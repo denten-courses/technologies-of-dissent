@@ -25,6 +25,6 @@ to our readings, for example).
 
 1. What is the difference between the shell (Bash, ZSH, ksh) and terminal emulator?
 
-2. What is the difference a file file and a folder?
+2. What is the difference a file and a folder?
 
 3. What is the difference between relative and absolute path? Give an example.
