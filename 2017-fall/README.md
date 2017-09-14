@@ -103,8 +103,8 @@ pp. 87-104. [Worksheet 1][15] due on Sunday, 11:59pm.
 
 ### Week 3: Theory and Practice
 
-- “[Authoritarian and Democratic Technics][5]” by Lewis Mumford (1964).
-- "[Do Artifacts Have Politics?][4]" by Langdon Winner.
+- “[Authoritarian and Democratic Technics][5]” (1964) by Lewis Mumford .
+- "[Do Artifacts Have Politics?][4]" (1980) by Langdon Winner.
 
 Lab: Encoding. Read "[ASCII and A Cast of Characters][6]" in *Code: The Hidden
 Language of Computer Hardware and Software*,  pp. 286-301.
