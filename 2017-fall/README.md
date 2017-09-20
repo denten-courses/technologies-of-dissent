@@ -127,7 +127,7 @@ Language of Computer Hardware and Software*,  pp. 286-301.
 
 [41]: https://courseworks2.columbia.edu/files/1500177/download?download_frd=1
 [42]: http://onlinelibrary.wiley.com.ezproxy.cul.columbia.edu/doi/10.1112/plms/s2-42.1.230/full
-[43]: www.ctheory.net/articles.aspx?id=74
+[43]: http://www.ctheory.net/articles.aspx?id=74
 [44]: https://courseworks2.columbia.edu/files/1571817/download?download_frd=1
 
 ### Week 4: Algorithms
