@@ -103,21 +103,32 @@ pp. 87-104. [Worksheet 1][15] due on Sunday, 11:59pm.
 
 ### Week 3: Theory and Practice
 
-- “[Authoritarian and Democratic Technics][5]” (1964) by Lewis Mumford .
-- "[Do Artifacts Have Politics?][4]" (1980) by Langdon Winner.
+- “[Authoritarian and Democratic Technics][35]” (1964) by Lewis Mumford .
+- "[Do Artifacts Have Politics?][34]" (1980) by Langdon Winner.
 
-Lab: Encoding. Read "[ASCII and A Cast of Characters][6]" in *Code: The Hidden
+[34]: http://www.jstor.org.ezproxy.cul.columbia.edu/stable/20024652?pq-origsite=summon&seq=1#page_scan_tab_contents
+[35]: http://www.jstor.org.ezproxy.cul.columbia.edu/stable/3101118?Search=yes&resultItemClick=true&searchText=Authoritarian&searchText=and&searchText=Democratic&searchText=Technics&searchUri=%2Faction%2FdoBasicSearch%3Ffilter%3D%26amp%3BQuery%3DAuthoritarian%2Band%2BDemocratic%2BTechnics&refreqid=search%3Af4ddecd3ce213f1a08573326d6ec3996&seq=1#page_scan_tab_contents
+
+Lab: No lab this week!
+
+### Week 4: Metaphor Machines
+
+- Turing, A. M. “[On Computable Numbers, with an Application to the
+  Entscheidungsproblem][42].” Proceedings of the London Mathematical Society
+s2-42, no. 1 (January 1, 1937): 230–65. The math requires some expertise---for
+the purposes of our class, review the passages that specify the material
+necessities for the universal machine.
+- Kittler, Friedrich A. “[There Is No Software][43].” CTHEORY (October 18,
+  1995).
+- "[The Nature of the Beast][44]" (1991) by Brenda Laurel.
+
+Lab: Encoding. Read "[ASCII and A Cast of Characters][41]" in *Code: The Hidden
 Language of Computer Hardware and Software*,  pp. 286-301.
 
-[4]: http://www.jstor.org.ezproxy.cul.columbia.edu/stable/20024652?pq-origsite=summon&seq=1#page_scan_tab_contents
-[5]: http://www.jstor.org.ezproxy.cul.columbia.edu/stable/3101118?Search=yes&resultItemClick=true&searchText=Authoritarian&searchText=and&searchText=Democratic&searchText=Technics&searchUri=%2Faction%2FdoBasicSearch%3Ffilter%3D%26amp%3BQuery%3DAuthoritarian%2Band%2BDemocratic%2BTechnics&refreqid=search%3Af4ddecd3ce213f1a08573326d6ec3996&seq=1#page_scan_tab_contents
-[6]: https://courseworks2.columbia.edu/files/1500177/download?download_frd=1
-
-### Week 3.5: Infrastructure
-
-- Selections from Nicole Starosielski's *The Undersea Network*
-
-Lab: Operating systems
+[41]: https://courseworks2.columbia.edu/files/1500177/download?download_frd=1
+[42]: http://onlinelibrary.wiley.com.ezproxy.cul.columbia.edu/doi/10.1112/plms/s2-42.1.230/full
+[43]: www.ctheory.net/articles.aspx?id=74
+[44]: https://courseworks2.columbia.edu/files/1571817/download?download_frd=1
 
 ### Week 4: Algorithms
 
@@ -259,6 +270,13 @@ Circumventing Encryption Frees NSA’s Hands Online
 
 
 ===========================================================================
+
+### Week 3.5: Infrastructure
+
+- Selections from Nicole Starosielski's *The Undersea Network*
+
+Lab: Operating systems
+
 IGNORE FOR NOW: THESE WILL BE INTEGRATED IN THE COURSE OF THE SEMESTER
 ===========================================================================
 
