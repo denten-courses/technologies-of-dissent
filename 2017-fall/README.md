@@ -120,17 +120,18 @@ the purposes of our class, review the passages that specify the material
 necessities for the universal machine.
 - Kittler, Friedrich A. “[There Is No Software][43].” CTHEORY (October 18,
   1995).
-- "[The Nature of the Beast][44]" (1991) by Brenda Laurel.
+- "[Chapter 1: The Nature of the Beast" by Brenda Laurel in [*Computers as
+  Theater*][44] (1991).
 
 Lab: Encoding. Read "[ASCII and A Cast of Characters][41]" in *Code: The Hidden
-Language of Computer Hardware and Software*,  pp. 286-301.
+Language of Computer Hardware and Software* by Charles Petzold,  pp. 286-301.
 
 [41]: https://courseworks2.columbia.edu/files/1500177/download?download_frd=1
 [42]: http://onlinelibrary.wiley.com.ezproxy.cul.columbia.edu/doi/10.1112/plms/s2-42.1.230/full
 [43]: http://www.ctheory.net/articles.aspx?id=74
 [44]: https://courseworks2.columbia.edu/files/1571817/download?download_frd=1
 
-### Week 4: Algorithms
+### Week 5: Algorithms
 
 - "Algorithms of Oppression" by Safiya Noble
 - Medina, Eden. 2015. “Rethinking Algorithmic Regulation.” Edited by Dr Raul
