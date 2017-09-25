@@ -101,7 +101,7 @@ pp. 87-104. [Worksheet 1][15] due on Sunday, 11:59pm.
 [14]: https://courseworks2.columbia.edu/files/1522885/download?download_frd=1
 [15]: https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/lab-worksheets/01-intro-command-line.md
 
-### Week 3: Theory and Practice
+### Week 3: Political Artifacts
 
 - “[Authoritarian and Democratic Technics][35]” (1964) by Lewis Mumford .
 - "[Do Artifacts Have Politics?][34]" (1980) by Langdon Winner.
@@ -130,6 +130,43 @@ Language of Computer Hardware and Software* by Charles Petzold,  pp. 286-301.
 [42]: http://onlinelibrary.wiley.com.ezproxy.cul.columbia.edu/doi/10.1112/plms/s2-42.1.230/full
 [43]: http://www.ctheory.net/articles.aspx?id=74
 [44]: https://courseworks2.columbia.edu/files/1571817/download?download_frd=1
+
+### Week 5: Laminate Text
+
+- Chun, Wendy Hui Kyong. “The Enduring Ephemeral, or the Future Is a Memory.”
+  Critical Inquiry 35, no. 1 (September 1, 2008). You can find this on JSTOR.
+- Murray, Donald. “Setting Type by Telegraph.” Journal of the Institution of
+  Electrical Engineers 34, no. 172 (May 1905): 555–97. Find in Google Scholar.
+Read up to 569 and then selectively after (skipping the synchronization
+section, unless interested).
+- "[Near Print and Beyond Paper: Knowing by *.pdf][51]" (pages 111-135) in Lisa
+  Gitelman's *Paper Knowledge* (2014).
+
+[51]: https://courseworks2.columbia.edu/files/1607024/download?download_frd=1
+
+Lab: TBA.
+
+IGNORE FOR NOW: THESE WILL BE INTEGRATED IN THE COURSE OF THE SEMESTER
+===========================================================================
+
+- Wikipedia, Policies and guidelines.
+- Version control with Git.
+- Command line basics
+- Samuel Butler, Book of the Machines
+- Selections from *The Human Condition* by Arendt
+- Selections from Networking Peripheries, by Anita Chan
+- Selections from *Giving Voice: Mobile Communication, Disability, and
+Inequality* by Meryl Alper
+- Selections from *Encoding Race, Encoding Class: Indian IT Workers in Berlin*
+from Sareeta Amrute.
+
+
+### Week 5: Format
+
+- Sterne
+- Drucker & McGann
+- 
+
 
 ### Week 5: Algorithms
 
@@ -227,7 +264,6 @@ Lab: Sharing communities.
 
 Lab:  Groups, users, and file permissions.
 
-
 ### Week 12: Leaks and Whistleblowers
 
 - Statement of Thomas Blanton, Director, National Security Archive.
@@ -246,7 +282,6 @@ Lab:  Groups, users, and file permissions.
 `Lab:`  Scripting w/ Python.
 
 ### Week 14: Surveillance & Counter-Surveillance
-
 
 - "Terror and the Female Grotesque" by Rachel Hall.
 - Thomas Nagel, “Concealment and Exposure.”
@@ -277,20 +312,4 @@ Circumventing Encryption Frees NSA’s Hands Online
 - Selections from Nicole Starosielski's *The Undersea Network*
 
 Lab: Operating systems
-
-IGNORE FOR NOW: THESE WILL BE INTEGRATED IN THE COURSE OF THE SEMESTER
-===========================================================================
-
-- Wikipedia, Policies and guidelines.
-- Version control with Git.
-- Command line basics
-- Samuel Butler, Book of the Machines
-- Selections from *The Human Condition* by Arendt
-- Selections from Networking Peripheries, by Anita Chan
-- Selections from *Giving Voice: Mobile Communication, Disability, and
-Inequality* by Meryl Alper
-- Selections from *Encoding Race, Encoding Class: Indian IT Workers in Berlin*
-from Sareeta Amrute.
-
-
 
