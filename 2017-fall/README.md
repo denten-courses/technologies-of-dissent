@@ -125,11 +125,13 @@ necessities for the universal machine.
 
 Lab: Encoding. Read "[ASCII and A Cast of Characters][41]" in *Code: The Hidden
 Language of Computer Hardware and Software* by Charles Petzold,  pp. 286-301.
+[Worksheet 2][46] is due Sunday evening as usual.
 
 [41]: https://courseworks2.columbia.edu/files/1500177/download?download_frd=1
 [42]: http://onlinelibrary.wiley.com.ezproxy.cul.columbia.edu/doi/10.1112/plms/s2-42.1.230/full
 [43]: http://www.ctheory.net/articles.aspx?id=74
 [44]: https://courseworks2.columbia.edu/files/1571817/download?download_frd=1
+[46]: https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/lab-worksheets/02-encoding.md
 
 ### Week 5: Laminate Text
 
