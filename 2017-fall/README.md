@@ -120,7 +120,7 @@ the purposes of our class, review the passages that specify the material
 necessities for the universal machine.
 - Kittler, Friedrich A. “[There Is No Software][43].” CTHEORY (October 18,
   1995).
-- "[Chapter 1: The Nature of the Beast" by Brenda Laurel in [*Computers as
+- "Chapter 1: The Nature of the Beast" by Brenda Laurel in [*Computers as
   Theater*][44] (1991).
 
 Lab: Encoding. Read "[ASCII and A Cast of Characters][41]" in *Code: The Hidden
