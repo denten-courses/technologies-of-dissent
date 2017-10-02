@@ -137,14 +137,14 @@ Language of Computer Hardware and Software* by Charles Petzold,  pp. 286-301.
 
 - Chun, Wendy Hui Kyong. “The Enduring Ephemeral, or the Future Is a Memory.”
   Critical Inquiry 35, no. 1 (September 1, 2008). You can find this on JSTOR.
-- Murray, Donald. “Setting Type by Telegraph.” Journal of the Institution of
-  Electrical Engineers 34, no. 172 (May 1905): 555–97. Find in Google Scholar.
-Read up to 569 and then selectively after (skipping the synchronization
+- Murray, Donald. “[Setting Type by Telegraph][52].” Journal of the Institution of
+  Electrical Engineers 34, no. 172 (May 1905): 555–97. Read up to 569 and then selectively after (skipping the synchronization
 section, unless interested).
 - "[Near Print and Beyond Paper: Knowing by *.pdf][51]" (pages 111-135) in Lisa
   Gitelman's *Paper Knowledge* (2014).
 
 [51]: https://courseworks2.columbia.edu/files/1607024/download?download_frd=1
+[52]: http://ieeexplore.ieee.org/document/5309747/
 
 Lab: TBA.
 
