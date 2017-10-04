@@ -24,6 +24,6 @@ What rights and permissions do you have?
 
 ## For an extra challenge
 
-List the processes running on your machine. Pick several that catch your
+List a few of the processes running on your machine. Pick several that catch your
 attention and discuss their privileges. What rights and permissions do they
 have within your system?
