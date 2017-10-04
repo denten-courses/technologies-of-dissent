@@ -143,10 +143,13 @@ section, unless interested).
 - "[Near Print and Beyond Paper: Knowing by *.pdf][51]" (pages 111-135) in Lisa
   Gitelman's *Paper Knowledge* (2014).
 
+Lab: Privileges and permissions. [Worksheet 3][53].
+
 [51]: https://courseworks2.columbia.edu/files/1607024/download?download_frd=1
 [52]: http://ieeexplore.ieee.org/document/5309747/
+[53]:
+https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/lab-worksheets/03-user.md
 
-Lab: TBA.
 
 IGNORE FOR NOW: THESE WILL BE INTEGRATED IN THE COURSE OF THE SEMESTER
 ===========================================================================
