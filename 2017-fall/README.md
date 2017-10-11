@@ -159,9 +159,14 @@ https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/
 - "[Modelling for Adaptivity][61]" by Dianne Murray, in *Human Factors in
   Information Technology*, Volume 2, 1991, Pages 81-95.
 
+Lab: Networking. Read the Communication chapter in Kernighan (pp 119-159).
+[Worksheet 5][64].
+
 [61]: http://www.sciencedirect.com.ezproxy.cul.columbia.edu/science/article/pii/B9780444886026500086
 [62]: http://www.jstor.org.ezproxy.cul.columbia.edu/stable/468316?Search=yes&resultItemClick=true&searchText=the&searchText=reading&searchText=process&searchText=a&searchText=phenomenological&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dthe%2Breading%2Bprocess%2Ba%2Bphenomenological&refreqid=search%3A79708552386ecd4acd2dacaeabcc6eb2
 [63]: http://www.jstor.org.ezproxy.cul.columbia.edu/stable/41237036?Search=yes&resultItemClick=true&searchText=au:&searchText=%22mara%20mills%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522mara%2Bmills%2522&refreqid=search%3Abc2172dcbf39808999fb2139948352ae&seq=1#page_scan_tab_contents
+[64]:
+https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/lab-worksheets/04-network.md
 
 ### Week 7: Concealment and Exposure
 
