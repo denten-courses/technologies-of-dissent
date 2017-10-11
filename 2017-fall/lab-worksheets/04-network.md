@@ -33,10 +33,11 @@ content. I suggest:
 
 3. Verify that your page works by going to `http://www.columbia.edu/~YOURUNIHERE/`
 
-4. Pick a site that you go to often. Using traceroute (you might have to
+4. Pick a site that you go to often. Using `traceroute` (you might have to
    install it on your machine) identify some of the servers that stand between
 you and that site. Google some of the names to learn about what they are and
-where they are located.
+where they are located. Report your findings here.
 
 ## For an extra challenge
 
+Coming soon!
