@@ -160,7 +160,7 @@ https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/
   Information Technology*, Volume 2, 1991, Pages 81-95.
 
 Lab: Networking. Read the Communication chapter in Kernighan (pp 119-159).
-[Worksheet 5][64].
+[Worksheet 4][64].
 
 [61]: http://www.sciencedirect.com.ezproxy.cul.columbia.edu/science/article/pii/B9780444886026500086
 [62]: http://www.jstor.org.ezproxy.cul.columbia.edu/stable/468316?Search=yes&resultItemClick=true&searchText=the&searchText=reading&searchText=process&searchText=a&searchText=phenomenological&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dthe%2Breading%2Bprocess%2Ba%2Bphenomenological&refreqid=search%3A79708552386ecd4acd2dacaeabcc6eb2
