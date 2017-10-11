@@ -12,7 +12,8 @@
 
 1. What is your IP Address at the library? What is your IP address at home?
    What is your device's MAC address? (Omit the last four digits for privacy
-reasons). Use `ifconfig` to explore.
+reasons). Use `ifconfig` to explore. Use `man ifocnfig` to learn about what
+you are seeing.
 
 2. Log into your CUNIX account using SSH. Create a folder called `public_html`
    using `mkdir`. Using `nano` create an `index.html` with some minimal
