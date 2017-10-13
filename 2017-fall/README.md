@@ -176,7 +176,9 @@ https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/
 [71]: https://scholar-google-com.ezproxy.cul.columbia.edu/scholar?hl=en&as_sdt=0%2C33&q=%E2%80%9CAnalog+and+Analog%2C%E2%80%9D+by+John+Haugeland%3B&btnG=
 [72]: https://scholar-google-com.ezproxy.cul.columbia.edu/scholar?hl=en&as_sdt=0%2C33&q=Analog+and+Digital+Representation%2C%E2%80%9D+by+Matthew+Katz&btnG=
 
-Lab: Midterm!
+Lab: Midterm! Graduate student research proposal is due (guidelines [here][73]).
+
+[73]: https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/graduate-research-proposal.md
 
 IGNORE FOR NOW: THESE WILL BE INTEGRATED IN THE COURSE OF THE SEMESTER
 ===========================================================================
