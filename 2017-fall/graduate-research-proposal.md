@@ -1,4 +1,4 @@
-## Midterm Research Proposal Guidelines (Graduate Students only)
+## Graduate Midterm Research Proposal Guidelines
 
 !!! Due: **October 22**. Please submit to the appropriate "[Assignments][11]"
 folder on Columbia Courseworks.
