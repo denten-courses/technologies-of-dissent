@@ -168,12 +168,15 @@ Lab: Networking. Read the Communication chapter in Kernighan (pp 119-159).
 [64]:
 https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/lab-worksheets/04-network.md
 
-### Week 7: Concealment and Exposure
+### Week 7: Digital and Analog
 
-- Thomas Nagel, “[Concealment and Exposure][71]” in *Philosophy & Public
-  Affairs Volume* 27, Issue 1 (June, 2006).
+- “[Analog and Analog][71],” by John Haugeland
+- “[Analog and Digital Representation][72],” by Matthew Katz
 
-[71]: http://onlinelibrary.wiley.com/doi/10.1111/j.1088-4963.1998.tb00057.x/full
+[71]: https://scholar-google-com.ezproxy.cul.columbia.edu/scholar?hl=en&as_sdt=0%2C33&q=%E2%80%9CAnalog+and+Analog%2C%E2%80%9D+by+John+Haugeland%3B&btnG=
+[72]: https://scholar-google-com.ezproxy.cul.columbia.edu/scholar?hl=en&as_sdt=0%2C33&q=Analog+and+Digital+Representation%2C%E2%80%9D+by+Matthew+Katz&btnG=
+
+Lab: Midterm!
 
 IGNORE FOR NOW: THESE WILL BE INTEGRATED IN THE COURSE OF THE SEMESTER
 ===========================================================================
@@ -189,6 +192,12 @@ Inequality* by Meryl Alper
 - Selections from *Encoding Race, Encoding Class: Indian IT Workers in Berlin*
 from Sareeta Amrute.
 
+### Week 7: Concealment and Exposure
+
+- Thomas Nagel, “[Concealment and Exposure][71]” in *Philosophy & Public
+  Affairs Volume* 27, Issue 1 (June, 2006).
+
+[71]: http://onlinelibrary.wiley.com/doi/10.1111/j.1088-4963.1998.tb00057.x/full
 
 ### Week 5: Format
 
