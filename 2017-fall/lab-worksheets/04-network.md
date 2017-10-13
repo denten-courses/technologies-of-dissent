@@ -41,4 +41,9 @@ where they are located. Report your findings here.
 
 ## For an extra challenge
 
-Coming soon!
+Use `ifconfig` to get the name of your wireless interface. Run something like
+`sudo tcpdump -nni NAMEOFYOURWIRELESSIFACEHERE -A -X src port 80 >
+payload.txt` to capture a few packets. Try going to several websites that take
+input (forms, searches, or logins) to simulate browsing. After some time,
+interrupt `tcpdump` (with ctrl-c) and examine the `payload.txt`. Report any
+findings here (omit any sensitive information if found).
