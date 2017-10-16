@@ -173,7 +173,7 @@ https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/
 - “[Analog and Analog][71],” by John Haugeland
 - “[Analog and Digital Representation][72],” by Matthew Katz
 
-[71]: https://scholar-google-com.ezproxy.cul.columbia.edu/scholar?hl=en&as_sdt=0%2C33&q=%E2%80%9CAnalog+and+Analog%2C%E2%80%9D+by+John+Haugeland%3B&btnG=
+[71]: https://www.pdcnet.org/collection/show?id=philtopics_1981_0012_0001_0213_0225&file_type=pdf
 [72]: https://scholar-google-com.ezproxy.cul.columbia.edu/scholar?hl=en&as_sdt=0%2C33&q=Analog+and+Digital+Representation%2C%E2%80%9D+by+Matthew+Katz&btnG=
 
 Lab: Midterm! Graduate student research proposal is due (guidelines [here][73]).
