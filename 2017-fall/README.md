@@ -180,6 +180,22 @@ Lab: Midterm! Graduate student research proposal is due (guidelines [here][73]).
 
 [73]: https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/graduate-research-proposal.md
 
+### Week 8: Shadow Libraries
+
+- Ávila-Torres, Víctor. “[Making Sense of Acquiring Music in Mexico
+  City][83].” SpringerLink, 2016, 77–93.
+- “[A Short History of Book Piracy][81]” by Bodó Balázs.
+- "Fine Tuning Boundaries," Chapter five in *[Low Power to the People: Pirates,
+  Protest, and Politics in FM Radio Activism][82]* (pages 91-128) by Christina
+Dunbar-Hester.
+
+Lab: Pirate libraries.
+
+[81]: http://piracy.americanassembly.org/wp-content/uploads/2011/06/MPEE-PDF-Coda-Books.pdf
+[82]: https://courseworks2.columbia.edu/files/1782704/download?download_frd=1
+[83]: https://link-springer-com.ezproxy.cul.columbia.edu/chapter/10.1057/978-1-137-58290-4_6
+
+
 IGNORE FOR NOW: THESE WILL BE INTEGRATED IN THE COURSE OF THE SEMESTER
 ===========================================================================
 
@@ -275,24 +291,6 @@ in Information” by Steve Calanrillo.
 - Eben Moglen, "Anarchism Triumphant."
 
 `Lab:`  Markdown + Pandoc.
-
-### Week 9: Media Piracy and Shadow Libraries
-
-- Robert Darnton, “The Science of Piracy.”
-- Selections from *Abigail De Kosnik: Rouge Archives: Digital Cultural Memory
-  and Media Fandom.*
-- “A Short History of Book Piracy” by Bodó Balázs.
-- "The Darknet: A Digital Copyright Revolution" by Jessica Wood.
-
-`Explore:` Stop Online Piracy Act (SOPA) documents
-
-`Lab:` Shell scripting.
-
-
-- Selections from *Low Power to the People: Pirates, Protest, and Politics in
-  FM Radio Activism*
-
-Lab: Sharing communities.
 
 ### Week 10: Censorship
 ### Week 11: Access Unauthorized and Authorized
