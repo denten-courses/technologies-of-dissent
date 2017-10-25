@@ -189,11 +189,13 @@ Lab: Midterm! Graduate student research proposal is due (guidelines [here][73]).
   Protest, and Politics in FM Radio Activism][82]* (pages 91-128) by Christina
 Dunbar-Hester.
 
-Lab: Pirate libraries.
+Lab: Pirate libraries. [Worksheet 5][84].
 
 [81]: http://piracy.americanassembly.org/wp-content/uploads/2011/06/MPEE-PDF-Coda-Books.pdf
 [82]: https://courseworks2.columbia.edu/files/1782704/download?download_frd=1
 [83]: https://link-springer-com.ezproxy.cul.columbia.edu/chapter/10.1057/978-1-137-58290-4_6
+[84]: 
+https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/lab-worksheets/05-archive.md
 
 
 IGNORE FOR NOW: THESE WILL BE INTEGRATED IN THE COURSE OF THE SEMESTER

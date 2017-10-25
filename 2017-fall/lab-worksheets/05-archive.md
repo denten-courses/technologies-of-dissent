@@ -14,7 +14,7 @@
 - an archive of your own choosing
 
 2. What kind of documents are collected in the archive? What is included and
-   what is included? Who is the primary audience? Who authors the documents?
+   what is excluded? Who is the primary audience? Who authors the documents?
 
 3. Who has access to "borrow" or "view" the materials? How is access
    negotiated? What are the fees or the memberships involved? What are the
@@ -32,7 +32,7 @@ development?
 
 7. What ideals does this community profess? What is its mission statement?
 
-8. Who decides what is included and what is included in this archive? What
+8. Who decides what is included and what is excluded in this archive? What
    kind of a social, legal entity is it (corporate, non-profit, etc)? How are
 decisions made? How do they raise funds? Who allocates the budget?
 
