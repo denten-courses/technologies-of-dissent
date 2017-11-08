@@ -197,6 +197,27 @@ Lab: Pirate libraries. [Worksheet 5][84].
 [84]: 
 https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/lab-worksheets/05-archive.md
 
+### Week 9: Peer Production and Intellectual Property
+
+- “[Commons-Based Peer Production and Virtue][91]” by Yochai Benkler and Helen
+  Nissenbaum.
+- Niva Elkin-Koren, "[Creative Commons: A Skeptical View of a Worthy Project][92]"
+  
+ [91]: https://www.nyu.edu/projects/nissenbaum/papers/jopp_235.pdf
+ [92]: https://www.researchgate.net/publication/228162788_Creative_Commons_A_Skeptical_View_of_a_Worthy_Pursuit\
+ 
+ ### Week 10: Concealment and Exposure
+
+- Thomas Nagel, “[Concealment and Exposure][101]” in *Philosophy & Public
+  Affairs Volume* 27, Issue 1 (June, 2006).
+- "[The Digital Persona as Property][103]," (pages 251-262) in *Privacy vs. Piracy* (2004) by Sonia Katyal.
+- Roger Dingledine, et. al., “[Tor: The Second-Generation Onion Router][102].”
+
+[101]: http://onlinelibrary.wiley.com/doi/10.1111/j.1088-4963.1998.tb00057.x/full
+[102]: http://www.dtic.mil/docs/citations/ADA465464
+[103]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=722441
+
+
 
 IGNORE FOR NOW: THESE WILL BE INTEGRATED IN THE COURSE OF THE SEMESTER
 ===========================================================================
@@ -212,18 +233,6 @@ Inequality* by Meryl Alper
 - Selections from *Encoding Race, Encoding Class: Indian IT Workers in Berlin*
 from Sareeta Amrute.
 
-### Week 7: Concealment and Exposure
-
-- Thomas Nagel, “[Concealment and Exposure][71]” in *Philosophy & Public
-  Affairs Volume* 27, Issue 1 (June, 2006).
-
-[71]: http://onlinelibrary.wiley.com/doi/10.1111/j.1088-4963.1998.tb00057.x/full
-
-### Week 5: Format
-
-- Sterne
-- Drucker & McGann
-- 
 
 
 ### Week 5: Algorithms
@@ -251,43 +260,12 @@ Lab: Facebook data dump.
 - Terranova, Tiziana. “Free Labor: Producing Culture for the Digital Economy.”
   Social Text 18, no. 2 (June 1, 2000): 33–58.
 
-### Week 7: Peer Production and Remix Culture
 
-- Selections from *Rogue Archives: Digital Cultural Memory and Media Fandom*
-  by Abigail De Kosnik.
-- "Information wants to be valuable" by Tim O'Reilly.
--  Ch. 1-3 "Open Access" by Peter Suber.
-- Richard Stallman, “Why ‘Free Software’ is better than ‘Open Source.’”
-- "Guerilla Open Access Manifesto," Aaron Swartz
-- Selections from "Coase's Penguin, or, Linux and The Nature of the Firm” by
-  Yochai Benkler.
-
-- Hughes, Justin. “Philosophy of Intellectual Property,” *Georgetown Law
-Journal* 77 (1989- 1988): 287-367.
-
-- “Copyright And `The Exclusive Right' Of Authors” by
-Lyman Ray Patterson.
-
-- "Against Intellectual Property" by Brian Martin.
-
-`Explore:` Cohen, Julie. “Creativity and Culture in Copyright Theory” U.C.
-Davis Law Review 40 (2007 2006): 1151; “Economic Analysis of Property Rights
-in Information” by Steve Calanrillo.
-
-`Explore:` Timeline of the Open Access Movement
-
-- “Commons-Based Peer Production and Virtue” by Yochai Benkler and Helen
-  Nissenbaum.
-- “Cooperation and Attribution in an Online Community of Young Creators” by
-  Andres Monroy-Hernandez and Benjamin Mako Hill.
-- “The Evolution of Authorship in a Remix Society” by Nicholas Diakopoulos,
-  et.al..
 
 ### Week 8: Creative Commons, Copyleft, Free Culture
 
 - Richard Stallman, "Copyleft: Pragmatic Idealism," "Why Software should not
   Have Owners," and "What is Free Software."
-- Niva Elkin-Koren, "Creative Commons: A Skeptical View of a Worthy Project."
 - Eric Von Hippel, "Open source software and the 'private-collective'
   innovation model."
 - Eben Moglen, "Anarchism Triumphant."
