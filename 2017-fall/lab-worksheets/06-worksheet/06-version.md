@@ -45,7 +45,7 @@ sure).
 Steps for your first pull request (PR):
 
 a. Fork the project (via the GitHub interface online). This copies the
-   whole repository from my account on the GitHub servers to your account.
+   *whole repository* from my account on the GitHub servers to your account.
 
 b. Clone the project (via the command line or GUI). This copies the repository
    from your remote GitHub account to your local machine.
