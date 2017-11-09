@@ -205,8 +205,18 @@ https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/
   
  [91]: https://www.nyu.edu/projects/nissenbaum/papers/jopp_235.pdf
  [92]: https://www.researchgate.net/publication/228162788_Creative_Commons_A_Skeptical_View_of_a_Worthy_Pursuit\
- 
- ### Week 10: Concealment and Exposure
+
+Lab: Intro to Version Control I (Git).
+
+### Week 11: Fall Break
+
+Lab: Intro to Version Control II (GitHub). [Worksheet
+II](https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/lab-worksheets/06-worksheet/06-version.md).
+
+### Week 12: Concealment and Exposure
+
+No class on Monday, Nov 13. We will discuss the readings on Wednesday, at
+Butler 208b.
 
 - Thomas Nagel, “[Concealment and Exposure][101]” in *Philosophy & Public
   Affairs Volume* 27, Issue 1 (June, 2006).
@@ -216,8 +226,6 @@ https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/
 [101]: http://onlinelibrary.wiley.com/doi/10.1111/j.1088-4963.1998.tb00057.x/full
 [102]: http://www.dtic.mil/docs/citations/ADA465464
 [103]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=722441
-
-
 
 IGNORE FOR NOW: THESE WILL BE INTEGRATED IN THE COURSE OF THE SEMESTER
 ===========================================================================
