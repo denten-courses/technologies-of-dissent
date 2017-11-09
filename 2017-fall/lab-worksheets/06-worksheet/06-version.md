@@ -4,9 +4,12 @@
 
 - Due on Tuesday (Nov, 14th) at Midnight
 - Copy the worksheet, answer the questions, and SUBMIT TO [OUR GITHUB
-  REPOSITORY] via pull request (see question 8).
+  REPOSITORY](https://github.com/denten-courses/technologies-of-dissent/tree/master/2017-fall/lab-worksheets/06-worksheet)
+via pull request (see question 8).
 - It is recommended that you Complete the GitHub "Hello World" tutorial before
   starting with this worksheet.
+
+## Questions
 
 1. In your own words, what is version (or source) control?
 
@@ -26,4 +29,30 @@
 maintains the repository? What are the rules for contributing?
 
 8. Submit this worksheet by filing a pull request to our Github repository.
+
+## Extra Challenge
+
+9. Explain the difference between a fork and a clone.
+
+10. Find a small spelling error on the *Programming Historian* and submit a
+    pull request to the owners. (Check with me for this option, if you are not
+sure).
+
+## Hints
+
+Steps for your first pull request (PR):
+
+a. Fork the project (via the GitHub interface online). This copies the
+   whole repository from my account on the GitHub servers to your account.
+
+b. Clone the project (via the command line or GUI). This copies the repository
+   from your remote GitHub account to your local machine.
+
+c. Make your changes.
+
+d. Push your changes to GitHub. This copies your local changes to the remote.
+
+e. Using the GitHub interface file a pull request. This will notify me to pull
+   your changes into my repository (from step *a*).
+
 
