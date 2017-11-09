@@ -30,7 +30,8 @@ via pull request (see question 8).
    paragraphs answer the following: Who are they? What do they do? Who
 maintains the repository? What are the rules for contributing?
 
-8. Submit this worksheet by filing a pull request to our Github repository.
+8. Submit this worksheet (in .txt or .md plain text format) by filing a pull
+   request to our Github repository.
 
 ## Extra Challenge
 
@@ -44,17 +45,18 @@ sure).
 
 Steps for your first pull request (PR):
 
-a. Fork the project (via the GitHub interface online). This copies the
-   *whole repository* from my account on the GitHub servers to your account.
+- Fork the project (via the GitHub interface online). This copies the *whole
+  repository* from my account on the GitHub servers to your account.
 
-b. Clone the project (via the command line or GUI). This copies the repository
-   from your remote GitHub account to your local machine.
+- Clone the project (via the command line or GUI). This copies the repository
+  from your remote GitHub account to your local machine.
 
-c. Make your changes.
+- Make your changes. In this case you are simply adding a file to the
+  repository (give it a unique file name).
 
-d. Push your changes to GitHub. This copies your local changes to the remote.
+- Push your changes to GitHub. This copies your local changes to the remote.
 
-e. Using the GitHub interface file a pull request. This will notify me to pull
-   your changes into my repository (from step *a*).
+- Using the GitHub interface file a pull request. This will notify me to pull
+  your changes into my repository (from the first step).
 
 
