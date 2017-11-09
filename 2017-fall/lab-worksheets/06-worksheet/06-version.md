@@ -8,6 +8,8 @@
 via pull request (see question 8).
 - It is recommended that you Complete the GitHub "Hello World" tutorial before
   starting with this worksheet.
+- Include your UNI id on your submission (I recommend you don't use your full
+  name).
 
 ## Questions
 
