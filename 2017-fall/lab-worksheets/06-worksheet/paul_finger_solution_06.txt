@@ -1,0 +1,36 @@
+# Worksheet 6: Version Control
+
+## Instructions
+
+- Due on Tuesday (Nov, 14th) at Midnight
+- Copy the worksheet, answer the questions, and SUBMIT TO [OUR GITHUB
+  REPOSITORY] via pull request (see question 8).
+- It is recommended that you Complete the GitHub "Hello World" tutorial before
+  starting with this worksheet.
+
+1. In your own words, what is version (or source) control?
+Version control works like a sort of database over time. Version control highlights discrepancies between different committed "snapshots" of a project over time. Additionally, version control helps prevent concurrent work from conflicting when different team members are working on the same project.
+
+2. Explain the difference between Git and GitHub.
+Git is the "journaling" or version control system and Github is the commercial server which makes room to host the depositories online. So Github is sort of like a social layer on top of Git.
+
+3. In a few sentences, explain what a "commit" is?
+A "commit" in Github is sort of like saving a file, except in this case a unique ID is created with each commit. This ID or hash allows you to see how the individual changes you've made via commits have changed themselves over time. Also, each commit usually is accompanied by a message describing the changes made.
+
+4. What is a "branch" in Git terms?
+A branch is what diverges from the "master line" on the diagram which was drawn in class. In more technical terms, a branch is a parallel version of the repository that is contained within the repository itself, but changes made within the branch don't affect the "original," or master branch. Thus a branch is like a small tributary in which you can work and tinker with the project while not affecting the "live" or "master" version.
+
+5. What is a repository? Explain what happens when you "push" to and "pull"
+   from a repository.
+A repository, as we mentioned in class, can be thought of as a folder. Each repository contains within it all of the files of a particular project, including "meta-data" like documentation and revision history. Repositories can be public (free via Github) or private (for a fee) and can have only one or multiple collaborators. When you "push" to a repository, you've made some local changes in the branch you're working on and would like to send your committed changes to a remote repository so others can access them. Now the "pulling" part is when you want to grab and merge changes to your local copy so that it's up to date. This often comes through via pull requests, which involve collaborators accepting or rejecting changes proposed to a depository by a user.
+
+6. What is involved in the "clone" operation?
+In a "clone" operation, you essentially copy or "clone" a repository and download it onto your own computer you're using. Thus, the data in the repository now "lives" locally on your device instead of on the server. The clone is connected to a remote version for ease of syncing the changes eventually. For example, I cloned the Technologies of Dissent repository in order to work locally and offline on this assignment. 
+
+7. Find an example of Git being used for a peer production project. In several
+   paragraphs answer the following: Who are they? What do they do? Who
+maintains the repository? What are the rules for contributing?
+I found a peer production project at the intersection of activism and data science called "gitmaps-ttccamp" under lifewinning's account, which links to an individual named Ingrid Burrington, who appears to maintain the repository. The project is for activists and "techies" to be able to use Github map integration for quick, seamless visualization of data in a presentation. This example is interesting in my opinion because the project is aimed towards activists who don't have a working knowledge of the command line or the finer mechanics of Gihub. Thus, the project tries to circumvent technological knowledge by offering several repos that people wanting to visualize geodata can just fork. 
+The project lists step-by-step instructions for converting raw data in a spreadsheet into visualized geodata. In these four steps, the authors link to the documentation (in Mapbox's Geo for Google Docs, in a School of Data geocoding tutorial, etc.) necessary to acquire the technological specialized know-how for the project. In essence, the Github project offers a rasa tabla or template sufficiently blank in order to anticipate a wide set of potential uses.  
+
+8. Submit this worksheet by filing a pull request to our Github repository.
