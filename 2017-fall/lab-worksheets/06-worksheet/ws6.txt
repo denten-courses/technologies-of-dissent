@@ -1,0 +1,77 @@
+In your own words, what is version (or source) control?
+
+	Version/source control is a mechanism of manually or automatically
+	creating backups and checkpoints that can be returned to at any point in
+	time. In its purest form, version control is just creating checkpoints. 
+	However, many modern version control systems (including, to an extent,
+	Dropbox/Google Drive), include software designed to make collaboration
+	easier.
+
+Explain the difference between Git and GitHub.
+
+	Git is a version control program. GitHub is a service that runs Git
+	repos remotely so that people can use them to collaborate.
+
+In a few sentences, explain what a "commit" is?
+
+	A commit is a checkpoint. It is a way to tell the version control system
+	to track changes up to this point and mark them for later.
+
+What is a "branch" in Git terms?
+
+	A branch is a split of the same code base that is treated as a
+	functionally separate repo. It has all of the same version control
+	features, but is separated from other branches so that changes to one
+	branch does not affect others. 
+
+What is a repository? Explain what happens when you "push" to and "pull" from a repository.
+
+	A repository is an online folder initialized with the version control 
+	system. Pushing and pulling from a repo (presumably a remote repo) is a
+	way of updating the online folder with the contents of the local folder,
+	or updating the local folder with the contents of the online folder, 
+	respectively. When this occurs, Git checks to make sure that the
+	changes do not overlap -- if they do, the user must 'merge' the changes.
+
+What is involved in the "clone" operation?
+
+	Cloning is the process of initializing and copying a remote repo
+	locally. In addition to the actual source files, git will copy down all
+	of the repository history, including previous commits and branches.
+
+Find an example of Git being used for a peer production project. In several paragraphs answer the following: Who are they? What do they do? Who maintains the repository? What are the rules for contributing?
+
+      Tensorflow.
+
+      Tensorflow is an ML deep learning library open sourced by Google. The
+      project is one of the most starred, watched, and forked projects on
+      github, owning in part to Google's remarkable success in the deep learning
+      world using this software and due to Google's continuing maintenance of
+      the repo. Google Brain, a subset of Google Research, is the main developer
+      of Tensorflow. They maintain an offline version of the repo for internal 
+      use, but will update the main repo with bug fixes and new versions.
+
+      Other than Google, the project is maintained by over a thousand
+      contributors, submitting everything from bugfixes to standard libraries
+      for the software. 
+
+      Contribution guidelines are listed here: https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md 
+
+      In short, because Google uses Tensorflow internally, contributors are
+      expected to give up their property rights over any code submitted to the
+      repo as liability protections. Otherwise, standard style requirements
+      and unit test requirements apply.
+
+Explain the difference between a fork and a clone.
+
+A fork, at least in the GitHub sense, is a server side clone. GitHub is a public
+code sharing space. The genius of GitHub is that multiple people can have public
+projects that anyone can view, but only certain approved individuals can edit.
+To streamline the process of un-approved individuals working on a code base, 
+GitHub developed a fork-pull system for server side cloning and 'pushing'.
+Unlike a traditional push, the pull request keeps repo control in the hands of
+the repo owner, who can choose to accept the pull request or not. 
+
+See: https://stackoverflow.com/questions/6286571/are-git-forks-actually-git-clones
+
+Submit this worksheet by filing a pull request to our Github repository.
