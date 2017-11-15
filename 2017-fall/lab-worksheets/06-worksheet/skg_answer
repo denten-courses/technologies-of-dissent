@@ -1,0 +1,34 @@
+Worksheet 6: Version Control
+
+Instructions
+
+Due on Tuesday (Nov, 14th) at Midnight
+Copy the worksheet, answer the questions, and SUBMIT TO OUR GITHUB REPOSITORY via pull request (see question 8).
+It is recommended that you Complete the GitHub "Hello World" tutorial before starting with this worksheet.
+Include your UNI id on your submission (I recommend you don't use your full name).
+Questions
+
+In your own words, what is version (or source) control? Source control is the step-by-step view/editing of a source, or group of files.
+
+Explain the difference between Git and GitHub. Git is a version control software tool to manage version control history. GitHub is built on Git; a service to aggregate and collaborate on Gits.
+
+In a few sentences, explain what a ‘commit’ is? A commit is the equivalent of saving different versions of a file. It is to save changes in a local repository (before pushing to the master repository).
+
+What is a “branch” in Git terms? Different versions of a repository; paths between commits. A project starts with a master branch, then subsequent branches and commits (which may then become committed back to master).
+
+What is a repository? Explain what happens when you “push” to and “pull” from a repository.
+
+A repository is a collection of files, documents, images, etc. used for a single project. Pushing to a repository is to make changes to ultimately commit them onto the master repository. Pulling from a repository is to open changes (then discuss them), for the goal of pushing them back to/merging them with the master.
+
+What is involved in a “clone” operation? After one forks a project to their own online account, cloning downloads the project onto a local editor. (This answers #9 as well.) I forked this project worksheet onto my account with the address: https://github.com/s-g-radcliffe/technologies-of-dissent/blob/master/2017-fall/lab-worksheets/06-worksheet/06-version.md
+
+Find an example of Git being used for a peer production project. In several paragraphs answer the following: Who are they? What do they do? Who maintains the repository? What are the rules for contributing?
+
+Git is used for the peer production of Node.js. Node.js is a server-side JavaScript platform largely used to build online applications. Node.js is known for being lightweight which allows for speed in data-intensive applications. Node.js was created by Ryan Dahl, and its GitHub repository address is https://github.com/nodejs/node.
+
+A group of project team members maintains the repository. The “Technical Steering Committee” “governs” the project, adding collaborators on an “ongoing basis.” They have authority over “technical direction,” “contribution policy,” “GitHub repository hosting,” “conduct guidelines,” etc. The list of TSC members is below:
+
+addaleax - Anna Henningsen anna@addaleax.net (she/her) ChALkeR - Сковорода Никита Андреевич chalkerx@gmail.com (he/him) cjihrig - Colin Ihrig cjihrig@gmail.com evanlucas - Evan Lucas evanlucas@me.com (he/him) fhinkel - Franziska Hinkelmann franziska.hinkelmann@gmail.com (she/her) Fishrock123 - Jeremiah Senkpiel fishrock123@rocketmail.com indutny - Fedor Indutny fedor.indutny@gmail.com jasnell - James M Snell jasnell@gmail.com (he/him) joshgav - Josh Gavant josh.gavant@outlook.com joyeecheung - Joyee Cheung joyeec9h3@gmail.com (she/her) mcollina - Matteo Collina matteo.collina@gmail.com (he/him) mhdawson - Michael Dawson michael_dawson@ca.ibm.com (he/him) mscdex - Brian White mscdex@mscdex.net MylesBorins - Myles Borins myles.borins@gmail.com (he/him) ofrobots - Ali Ijaz Sheikh ofrobots@google.com rvagg - Rod Vagg rod@vagg.org targos - Michaël Zasso targos@protonmail.com (he/him) thefourtheye - Sakthipriyan Vairamani thechargingvolcano@gmail.com (he/him) trevnorris - Trevor Norris trev.norris@gmail.com Trott - Rich Trott rtrott@gmail.com (he/him)
+
+There is a code of conduct (https://github.com/nodejs/TSC/blob/master/CODE_OF_CONDUCT.md) and basic instructions for operating Node.js. There are various notes on privacy, language and security. One note reads: “Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at report@nodejs.org.”
+
