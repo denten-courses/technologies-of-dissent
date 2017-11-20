@@ -215,7 +215,7 @@ II](https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-f
 
 ### Week 12: Concealment and Exposure
 
-No class on Monday, Nov 13. We will discuss the readings on Wednesday, at
+No class on Monday, Nov 13 & Nov 20. We will discuss the readings on Wednesday, at
 Butler 208b.
 
 - Thomas Nagel, “[Concealment and Exposure][101]” in *Philosophy & Public
@@ -227,115 +227,25 @@ Butler 208b.
 [102]: http://www.dtic.mil/docs/citations/ADA465464
 [103]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=722441
 
-IGNORE FOR NOW: THESE WILL BE INTEGRATED IN THE COURSE OF THE SEMESTER
-===========================================================================
+### Week 13: Surveillance & Counter-Surveillance
 
-- Wikipedia, Policies and guidelines.
-- Version control with Git.
-- Command line basics
-- Samuel Butler, Book of the Machines
-- Selections from *The Human Condition* by Arendt
-- Selections from Networking Peripheries, by Anita Chan
-- Selections from *Giving Voice: Mobile Communication, Disability, and
-Inequality* by Meryl Alper
-- Selections from *Encoding Race, Encoding Class: Indian IT Workers in Berlin*
-from Sareeta Amrute.
+- "[Terror and the Female
+  Grotesque](https://read-dukeupress-edu.ezproxy.cul.columbia.edu/books/chapter-pdf/491902/9780822375463-008.pdf)"
+by Rachel Hall in *Feminist Surveillance Studies* (Duke UP, 2015).
+- "[Security Theater at the
+  Airport](https://read-dukeupress-edu.ezproxy.cul.columbia.edu/books/book/147/chapter/105146/What-Did-TSA-Find-in-Solange-s-Fro-Security)"
+in *Dark Matters: On the Surveillance of Blackness* (Duke UP, 2015).
 
+Lab:  Tor & VPN
 
+### Week 14: Algorithmic Governance
 
-### Week 5: Algorithms
-
-- "Algorithms of Oppression" by Safiya Noble
-- Medina, Eden. 2015. “Rethinking Algorithmic Regulation.” Edited by Dr Raul
-  Espejo. Kybernetes 44 (6/7): 1005–19.
+- "[Picturing Algorithmic Surveillance: The Politics of Facial Recognition
+  Systems](https://queens.scholarsportal.info/ojs-archive/index.php/surveillance-and-society/article/view/3373)"
+by Lucas Introna and David Wood in Surveillance & Society.
+- Medina, Eden. 2015. “[Rethinking Algorithmic
+  Regulation](https://search-proquest-com.ezproxy.cul.columbia.edu/docview/1721348858?pq-origsite=summon&accountid=10226)”
+in *Kybernetes* 44 (6/7): 1005–19.
+- "Algorithms of Oppression" by Safiya Noble (COMING IN 2018, SKIP)
 
 Lab: Recipes, heuristics, algorithms.
-
-### Week 5: "Big" Data
-
-- Selections from Cathy O'Neil's *Weapons of Math Destruction: How Big Data
-  Increases Inequality and Threatens Democracy*
-
-Lab: Facebook data dump.
-
-### Week 6: Digital Labor
-
-- Irani, L. and M.S. Silberman. (2013) Turkopticon: Interrupting Worker
-  Invisibility in Amazon Mechanical Turk” Proceedings of CHI 2013, Apr 28-May
-2, 2013.
-- Selections from *Digital Labor: The Internet as Playground and Factory* by
-  Trebor Scholz.
-- Terranova, Tiziana. “Free Labor: Producing Culture for the Digital Economy.”
-  Social Text 18, no. 2 (June 1, 2000): 33–58.
-
-
-
-### Week 8: Creative Commons, Copyleft, Free Culture
-
-- Richard Stallman, "Copyleft: Pragmatic Idealism," "Why Software should not
-  Have Owners," and "What is Free Software."
-- Eric Von Hippel, "Open source software and the 'private-collective'
-  innovation model."
-- Eben Moglen, "Anarchism Triumphant."
-
-`Lab:`  Markdown + Pandoc.
-
-### Week 10: Censorship
-### Week 11: Access Unauthorized and Authorized
-
-- McKenzie Wark, “A Hacker Manifesto.”
-- Selections from Gabriella Coleman's *Coding Freedom: The Ethics and
-  Aesthetics of Hacking.*
-- Hackers and the contested ontology of cyberspace, Helen Nissenbaum.
-
-Lab:  Groups, users, and file permissions.
-
-### Week 12: Leaks and Whistleblowers
-
-- Statement of Thomas Blanton, Director, National Security Archive.
-- Selections from Gabriella Coleman's *Hacker Hoaxer Whistleblower Spy: The Many
-  Faces of Anonymous*
-- The Wikileaks Manifesto, by Julian Assange.
-- Disclosure's Effects: WikiLeaks and Transparency, by Mark Fenster
-
-### Week 13: Privacy, Secrecy, and Transparency
-
-- Pozen on “Deep Secrecy.”
-- “A Free Irresponsible Press” by Yochai Benkler 
-- Freedom of Information Act
-- U.S. Code Chapter 37 - Espionage and Censorship.
-
-`Lab:`  Scripting w/ Python.
-
-### Week 14: Surveillance & Counter-Surveillance
-
-- "Terror and the Female Grotesque" by Rachel Hall.
-- Thomas Nagel, “Concealment and Exposure.”
-
-Lab:  Reading Terms of Service.
-
-### Week 15: Cryptography
-
-- Timothy C. May, "The Crypto Anarchist Manifesto" and “Crypto Anarchy and
-  Virtual Communities.”
-- “A Cypherpunk's Manifesto" by Eric Hughes.
-- Steven Levy "Crypto Rebels."
-- Nick Szabo, "The idea of smart Contracts."
-- "Assassination Politics" by Jim Bell.
-
-`Explore:`  http://www.i2p2.de/; Cyphernomicon; New Directions in Cryptography;
-Circumventing Encryption Frees NSA’s Hands Online
-
-`Lab:` Tor/Onion, Encrypting Email.
-
-
-
-
-===========================================================================
-
-### Week 3.5: Infrastructure
-
-- Selections from Nicole Starosielski's *The Undersea Network*
-
-Lab: Operating systems
-
