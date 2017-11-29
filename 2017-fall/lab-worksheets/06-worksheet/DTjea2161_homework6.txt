@@ -1,0 +1,68 @@
+Worksheet 6: Version Control
+
+Instructions
+
+Due on Tuesday (Nov, 14th) at Midnight
+Copy the worksheet, answer the questions, and SUBMIT TO OUR GITHUB REPOSITORY via pull request (see question 8).
+It is recommended that you Complete the GitHub "Hello World" tutorial before starting with this worksheet.
+Include your UNI id on your submission (I recommend you don't use your full name).
+Questions
+
+In your own words, what is version (or source) control?
+
+Version control is a system that allows different developers to work on the same projects with the goal of 
+creating a new project that reflects all the changes made by all developers. 
+
+Explain the difference between Git and GitHub.
+
+Git is a version control system with a predefined set of rules, while Github
+is a private company that hosts the files and projects that developers work on. 
+Github uses git to keep track of these changes.
+
+In a few sentences, explain what a "commit" is?
+
+A commit is a snapshot of changes made to a file or number of files that reflects 
+the work an indivudal is trying to contribute in a given moment. 
+
+What is a "branch" in Git terms?
+
+A branch is an individual version of the project that is independent of other branches. 
+It reflects a specific history of the project that can be merged with other branches to 
+create a new project with all the changes made in both branches reflected.
+
+What is a repository? Explain what happens when you "push" to and "pull" from a repository.
+
+A repository is the project itself. Most simply, its a folder that contains all the project files
+that have been edited. When you pull from a repository, you're asking to bring all the changes that 
+are on the repo to be reflected on your personal computer. WHen you push to a repository, you're 
+trying to send whatever changes you've made on your local machine to the remote repository. 
+
+What is involved in the "clone" operation?
+
+First, you have to establish a connection to the remote repository where the code is stored. 
+Then, you need to transfer the code from the remote to local by sending packets of information
+that include 
+
+Find an example of Git being used for a peer production project. In several paragraphs answer the following: Who are they? What do they do? Who maintains the repository? What are the rules for contributing?
+
+Submit this worksheet (in .txt or .md plain text format) by filing a pull request to our Github repository.
+
+Extra Challenge
+
+Explain the difference between a fork and a clone.
+
+Find a small spelling error on the Programming Historian and submit a pull request to the owners. (Check with me for this option, if you are not sure).
+
+Hints
+
+Steps for your first pull request (PR):
+
+Fork the project (via the GitHub interface online). This copies the whole repository from my account on the GitHub servers to your account.
+
+Clone the project (via the command line or GUI). This copies the repository from your remote GitHub account to your local machine.
+
+Make your changes. In this case you are simply adding a file to the repository (give it a unique file name).
+
+Push your changes to GitHub. This copies your local changes to the remote.
+
+Using the GitHub interface file a pull request. This will notify me to pull your changes into my repository (from the first step).
