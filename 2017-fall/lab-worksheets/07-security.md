@@ -21,7 +21,8 @@ addresses here.
 5. In your own words explain the difference in IP addresses above.
 
 6. Create VPN connection to Columbia university from a site outside of the
-   Columbia network.
+   Columbia network. !!! IF COLUMBIA VPN IS NOT AN OPTION, SKIP THIS PART AND TRY
+TUNNELING THROUGH SSH FOR EXTRA CREDIT
 
 7. Compare your IP addresses with and without VPN and discuss the difference.
 
