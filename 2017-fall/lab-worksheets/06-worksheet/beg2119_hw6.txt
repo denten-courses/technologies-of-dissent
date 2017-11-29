@@ -1,0 +1,35 @@
+Braxton Gunter
+~ beg2119
+
+TECHNOLOGIES OF DISSENT - 06
+
+1. In your own words, what is version (or source) control?
+  - version control systems are collections of software tools that record changes to specified file(s)
+
+2. Explain the difference between Git and GitHub.
+  - GitHub is a remote hosting service for Git repositories; in other words, Git is the tool and GitHub is a service for hosting projects that make use of said tool.
+
+3. What is a "commit"?
+  - a "commit" is a record of the changes made to specified file(s)
+
+4. What is a "branch" in Git terms?
+  - a "branch" is a moveable pointer to a commit and its immediate ancestry
+
+5. What is a "repository"? Explain what happens when you "push" to and "pull" from a repository.
+  - a "repository" is the overarching data structure that manages the history a Git project. "Push" and "pull" are concepts related to hosting services like GitHub, as they take local Git changes and update their remote references and pull remote updates to your local work, respectively.
+
+6. What is involved in the "clone" operation?
+  - cloning a Git repository is simply creating a local copy of it.
+
+7. Find an example of Git being used for a peer production project. In several paragraphs answer the following: Who are they? What do they do? Who maintains the repository? What are the rules for contributing?
+  - https://github.com/torvalds/linux
+  - the Linux kernel is an open source project and OS base
+  - Linus Torvalds is the project owner, and the creator of the linux kernel
+  - infinite amount of contributors
+  - No contributing guidelines (however, they could be specified.)
+
+8. Submit this worksheet by filing a pull request to our Github repository.
+
+9. Explain the difference between a fork and a clone.
+  - whereas a clone is a direct copy of a repository, a fork is exclusively a Github concept -- directly copying the contents of a repository but updating its owner to yourself; in a way, forking is cloning while in the context of your account.
+
