@@ -25,10 +25,14 @@ addresses here.
 
 7. Compare your IP addresses with and without VPN and discuss the difference.
 
+8. Find a case study (an organization, group, or people) who use Tor or
+   recommend Tor for specific *civic* purposes. Who are they? What do they do?
+And how do they use Tor?
+
 ## For an extra challenge
 
-8. Connect too google.com using the Tor Browser. Use `traceroute` to verify
+9. Connect too google.com using the Tor Browser. Use `traceroute` to verify
    the same path to google. TOR does not seem to be working. Why?
 
-9. Route your web traffic through an SSH connection to Columbia. Post
+10. Route your web traffic through an SSH connection to Columbia. Post
    verification here.
