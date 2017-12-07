@@ -251,4 +251,4 @@ by Lucas Introna and David Wood in Surveillance & Society.
 in *Kybernetes* 44 (6/7): 1005–19.
 - "Algorithms of Oppression" by Safiya Noble (COMING IN 2018, SKIP)
 
-Lab: Recipes, heuristics, algorithms.
+Lab: Columbia surveillance project Wed & Mon.
