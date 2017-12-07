@@ -236,7 +236,7 @@ by Rachel Hall in *Feminist Surveillance Studies* (Duke UP, 2015).
   Airport](https://read-dukeupress-edu.ezproxy.cul.columbia.edu/books/book/147/chapter/105146/What-Did-TSA-Find-in-Solange-s-Fro-Security)"
 in *Dark Matters: On the Surveillance of Blackness* (Duke UP, 2015).
 
-Lab: Tor and Vpn. [Worksheet 7][131].
+Lab: Tor and VPN. [Worksheet 7][131].
 
 [131]:
 https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/lab-worksheets/07-security.md
