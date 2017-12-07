@@ -210,8 +210,7 @@ Lab: Intro to Version Control I (Git).
 
 ### Week 11: Fall Break
 
-Lab: Intro to Version Control II (GitHub). [Worksheet
-II](https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/lab-worksheets/06-worksheet/06-version.md).
+Lab: Intro to Version Control II (GitHub). [Worksheet 6](https://github.com/denten-courses/technologies-of-dissent/blob/master/2017-fall/lab-worksheets/06-worksheet/06-version.md).
 
 ### Week 12: Concealment and Exposure
 
