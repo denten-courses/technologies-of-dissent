@@ -1,10 +1,6 @@
 # ENGLGU 4911: Technologies of Dissent
 
-Fall 2017  
 Prof. Dennis Tenen | dt2406 at columbia  
-M (lecture) 2:40pm-3:55pm at 603 Hamilton Hall  
-W (lab) 2:40pm-3:55pm at Butler 208b  
-Office Hours:  M&W 4-5pm Philosophy 408e  
 
 Our engagement with technology entails political, not just instrumental
 choices. Email clients, social networks, and word processors have a profound
@@ -110,6 +106,14 @@ pp. 87-104. [Worksheet 1][15] due on Sunday, 11:59pm.
 [35]: http://www.jstor.org.ezproxy.cul.columbia.edu/stable/3101118?Search=yes&resultItemClick=true&searchText=Authoritarian&searchText=and&searchText=Democratic&searchText=Technics&searchUri=%2Faction%2FdoBasicSearch%3Ffilter%3D%26amp%3BQuery%3DAuthoritarian%2Band%2BDemocratic%2BTechnics&refreqid=search%3Af4ddecd3ce213f1a08573326d6ec3996&seq=1#page_scan_tab_contents
 
 Lab: No lab this week!
+
+### Week 4: Weapons of the Weak
+
+- Selections from *Weapons of the Weak* by James Scott.
+- "[From Internet Farming to Weapons of the Geek][1004]" by Gabriella Coleman in
+*Current Anthropology* (Nov, 2016).
+
+[1004]: www.journals.uchicago.edu/doi/abs/10.1086/688697
 
 ### Week 4: Metaphor Machines
 
